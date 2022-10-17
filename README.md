@@ -64,6 +64,7 @@ The following is a list of examples of non-functional requirements that could be
 
 
 USE CASES DIAGRAM
+
  <img width="356" alt="Zrzut ekranu 2022-10-17 o 21 27 21" src="https://user-images.githubusercontent.com/110846802/196265512-ccbc9f68-9d6d-4c89-b383-9cfebc32a435.png">
 
  
@@ -75,16 +76,17 @@ ANALYTICAL CLASS DIAGRAM
 
 SCENARIO FOR USE CASE "View Order Details"
 
-Name of the use case 	Browse order details
-Initial condition 	There is at least one order in the system.
-The main flow of events	1.	The employee actor starts a use case.
-2.	 The system displays a list of orders in the system
-3.	 The actor chooses the order
-4.	The system displays the details of the selected order
+Name of the use case - 	Browse order details
+Initial condition  -	There is at least one order in the system.
+The main flow of events:
+  1.	The employee actor starts a use case.
+  2.	 The system displays a list of orders in the system
+  3.	 The actor chooses the order
+  4.	The system displays the details of the selected order
 
-Alternative course of events	2a. There is no order in the system, the system displays a message and the use case ends. 
-End 	According to the script
-Final condition	Provided the conditions are met - order details have been displayed.
+Alternative course of events	2a. - There is no order in the system, the system displays a message and the use case ends. 
+End 	- According to the script
+Final condition	- Provided the conditions are met - order details have been displayed.
 
  
 ACTIVITY DIAGRAM FOR A USE CASE - "View order details"
@@ -100,6 +102,7 @@ CONDITION DIAGRAM FOR THE "Order" CLASS
 
  
 GUI CONCEPT
+
  <img width="803" alt="Zrzut ekranu 2022-10-17 o 21 29 42" src="https://user-images.githubusercontent.com/110846802/196265813-ecc1bece-625e-47f5-a27a-ac383103e972.png">
 
  <img width="803" alt="Zrzut ekranu 2022-10-17 o 21 29 48" src="https://user-images.githubusercontent.com/110846802/196265820-a87ad2b0-ddb0-44e7-9799-068cd19ae445.png">
