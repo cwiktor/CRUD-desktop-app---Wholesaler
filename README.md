@@ -1,4 +1,4 @@
-# CRUD-desktop-app---Wholesaler
+# CRUD-desktop-app---Wholesaler - study project
 
 #java #hibernate #msql2_database #docker
 
